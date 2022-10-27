@@ -8,7 +8,7 @@ The dataset provided information on the following features for each customer: Ex
 DATA PREPARATION
 This was done to ensure the Validity, Accuracy, Completeness, Consistency and Uniformity of the Data. These are the steps followed in preparing the data: TASK1 :The first task was to check if the column names were uniform and readable.
 
-TASK2 :The second task was to check for duplcated rows.
+TASK2 :The second task was to check for duplicated rows.
 
 TASK3 :The next task was to check if there were missing values.
 
